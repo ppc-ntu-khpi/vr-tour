@@ -1,0 +1,44 @@
+html{
+    min-height: 100%;
+}
+body{
+    background-image: url(../icons/mainfon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+.btn{
+ background-color: #c16441;
+ color:white;
+ border-radius: 100px;
+ width: 170px;
+ height: 45px;
+ text-align: center;
+ padding: 12px;
+ font-size: 15px;
+ font-weight: bold;
+ text-decoration: none;
+ border: 2px solid white;
+}
+.btn:hover{
+ color:#c16441;
+ background-color: azure;
+ border-color:#c16441;
+}
+.logo{
+ height: 30vh;
+ float:left;
+}
+.logo:hover{
+ opacity:.85;
+}
+.main{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.main-text{
+    font-family: 'Fira Sans', sans-serif;
+    color:white;
+    font-size:40px;
+    text-shadow: #c16441  0 0 2px;
+}
