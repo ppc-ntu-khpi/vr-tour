@@ -4,9 +4,9 @@ html{
 body{
     padding: 0px;
     margin: 0px;
-    color: darkgray;
+    color: darkslategray ;
     font-family: 'Roboto', sans-serif;
-    background-image: url(../icons/fon.jpg);
+    background-image: url(http://fony-kartinki.ru/_ph/117/2/324575216.jpg);
     background-repeat: repeat;
 }
 .slick-next{
@@ -80,7 +80,7 @@ margin: auto;
     position: relative;
     zoom: 1;
     padding: 0;
-    background: #ffffff;
+    background: transparent;
  
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
