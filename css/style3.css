@@ -8,6 +8,7 @@ body{
     font-family: 'Roboto', sans-serif;
     background-image: url(http://fony-kartinki.ru/_ph/117/2/324575216.jpg);
     background-repeat: repeat;
+    font-size: 20px;
 }
 .slick-next{
 	right: 0;
@@ -108,6 +109,9 @@ margin: auto;
     z-index: 100;
     outline: none;
 }
+#mybtn:hover{
+    cursor: pointer;
+}
 .container{
     display: flex;
     margin: 0px;
@@ -119,5 +123,9 @@ margin: auto;
 }
 .description{
     margin-left: 15px;
+    margin-right: 15px;
     text-align: justify;
+}
+.names{
+    font-weight:bold;
 }
