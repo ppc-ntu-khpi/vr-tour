@@ -41,4 +41,6 @@ body{
     color:white;
     font-size:40px;
     text-shadow: #c16441  0 0 2px;
+    clear: both;
+    padding-top: 40px;
 }
