@@ -1,10 +1,7 @@
-# 360-image-gallery-boilerplate
+# Віртуальний тур коледжем
 
-> Featured in the *Building an Advanced Scene* guide.
+Створено на основі оригінального шаблону [360-image-gallery-boilerplate](https://aframe.io/examples/showcase/360-image-gallery/) в рамках дипломного проекту [Бовшик Ольги](http://github.com/olga-bov98) (керівник - [Бабич О.В.](http://github.com/liketaurus))
 
-Scene for selecting between different 360-degree images.
-
-## Dependencies
-
+## Залежності: 
 - [A-Frame](https://github.com/aframevr/aframe)
-- [K-Frame](https://github.com/ngokevin/k-frame)
+- [Slick](https://kenwheeler.github.io/slick/)
